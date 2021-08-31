@@ -1,5 +1,5 @@
 var prompt = require("prompt-sync")()
-
+console.clear()
 console.clear()
 
 function escolher() {
